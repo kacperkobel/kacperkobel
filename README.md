@@ -14,7 +14,7 @@ Looking ahead, I’m focused on expanding my development skills, specifically by
 - Git / GitHub
 - Problem Solving
 
-## Projects
+## Projects Table of Contents
 [WordLadder](https://github.com/kacperkobel/WordLadder)
 [Spelling Bee](https://github.com/kacperkobel/Spelling-Bee)
 [Food Web](https://github.com/kacperkobel/Food-Web)
